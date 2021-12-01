@@ -1,0 +1,107 @@
+{
+  "id": "2955082",
+  "name": "bank",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1031369",
+      "name": "tianjia",
+      "font_class": "tianjia",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "112286",
+      "name": "人民币",
+      "font_class": "rmb",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "900150",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "2032333",
+      "name": "交易明细",
+      "font_class": "jiaoyimingxi",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "2076266",
+      "name": "扫一扫",
+      "font_class": "saoyisao",
+      "unicode": "e891",
+      "unicode_decimal": 59537
+    },
+    {
+      "icon_id": "2261431",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "3953246",
+      "name": "网上开户",
+      "font_class": "zhuce",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "4377779",
+      "name": "账户信息查询",
+      "font_class": "zhanghuxinxichaxun",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "4734612",
+      "name": "转账",
+      "font_class": "zhuanzhang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "6949458",
+      "name": "转账",
+      "font_class": "CombinedShape",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10573249",
+      "name": "行内转账",
+      "font_class": "hangneizhuanzhang",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "11403352",
+      "name": "同名转账",
+      "font_class": "tongmingzhuanzhang",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "13848852",
+      "name": "我的财富",
+      "font_class": "wodecaifu",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "16796847",
+      "name": "电子银行注册",
+      "font_class": "dianziyinhangzhuce",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    }
+  ]
+}
